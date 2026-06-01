@@ -9,3 +9,10 @@ Requires both oh-my-posh (bash) and blue-owl theme already installed.
 Should work with:
 
 Linux / Windows ( cygwin ) / MacOS (defaults to bash )
+
+
+Added second version with additional fzf, bash-completion & bash syntax highlithing blesh-git
+Requirements:
+fzf
+bash-completion
+blesh-git ! required version for oh-my-push hook , doesnt seem to work with non git version.
