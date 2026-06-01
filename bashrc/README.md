@@ -1,5 +1,7 @@
 # .bashrc
 
+CAUTION - Risk of Malicious code injection if not used correctly / responsibly 
+
 .bashrc with oh-my-posh blue-owl theme configured to persist via SSH connections as well as sudo on remote host.
 
 Requires both oh-my-posh (bash) and blue-owl theme already installed.
